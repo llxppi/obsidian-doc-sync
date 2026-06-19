@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-doc-sync",
+  "name": "Doc Sync",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Sync online documentation to your vault with scheduled updates.",
+  "author": "Your Name",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}
